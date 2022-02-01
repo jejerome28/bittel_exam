@@ -1,0 +1,1 @@
+<textarea name="reply" id="reply" cols="30" rows="1" placeholder="Write a comment..."></textarea>
