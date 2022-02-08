@@ -17,23 +17,8 @@ class UserAccount{
        $this->picture = $picture;
     }
 
-    function get_posts($posts){
-        echo $this->$posts;
-    }
-
-    function get_upvotes($upvotes){
-        echo $this->$upvotes;
-    }
-
-    function get_downvotes($downvotes){
-        echo $this->$downvotes;
-    }
-
-    function get_comments($comments){
-        echo $this->$comments;
-    }
+    
 }
 
 
 
-?>
